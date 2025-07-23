@@ -9,7 +9,7 @@
 
 This project is a modular **Supply Chain & ERP prototype** application built with **Streamlit**, designed to optimize global supply chain operations and integrate ERP financial processes.
 
-It supports multi-location inventory tracking, supplier management, purchase orders, invoices, order fulfillment, user access control, predictive analytics, alerts, and collaboration features — all aimed at improving operational efficiency, reducing delays, and automating workflows.
+It supports multi-location inventory tracking, supplier management, purchase orders, invoices, order fulfillment, user access control, predictive analytics, alerts, and collaboration features all aimed at improving operational efficiency, reducing delays, and automating workflows.
 
 ---
 
