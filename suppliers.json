@@ -1,0 +1,134 @@
+{
+    "sup001": {
+        "supplier_id": "sup001",
+        "name": "amex",
+        "contact_info": "amex@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "sup002": {
+        "supplier_id": "sup002",
+        "name": "amex",
+        "contact_info": "amex@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "sup003": {
+        "supplier_id": "sup003",
+        "name": "rieke",
+        "contact_info": "rieke@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "sup004": {
+        "supplier_id": "sup004",
+        "name": "trimas",
+        "contact_info": "trimas@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "sup005": {
+        "supplier_id": "sup005",
+        "name": "trimas",
+        "contact_info": "trimas@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "sup006": {
+        "supplier_id": "sup006",
+        "name": "ritz",
+        "contact_info": "ritz@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "sup007": {
+        "supplier_id": "sup007",
+        "name": "rieke",
+        "contact_info": "rieke@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "sup": {
+        "supplier_id": "sup",
+        "name": "trimas",
+        "contact_info": "trimas@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "SUP009": {
+        "supplier_id": "SUP009",
+        "name": "hello",
+        "contact_info": "hello@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "SUP010": {
+        "supplier_id": "SUP010",
+        "name": "foods",
+        "contact_info": "foods@example.com",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "SUP011": {
+        "supplier_id": "SUP011",
+        "name": "COOKIES",
+        "contact_info": "COOKIES@EXAMPLE.COM",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    },
+    "SUP012": {
+        "supplier_id": "SUP012",
+        "name": "KIRKLAND",
+        "contact_info": "KIRKLAND@EXAMPLE.COM",
+        "performance": {
+            "delivery_time_avg_days": null,
+            "quality_rating": null,
+            "reliability_score": null
+        },
+        "communication_log": []
+    }
+}
